@@ -1,0 +1,36 @@
+{
+  "MoraleConstants": {
+    "OffensivePushCost": 20,
+    "OffensivePushLowMoraleCost": 30,
+    "OffensivePushHighMoraleCost": 15,
+    "DefensivePushCost": 20,
+    "DefensivePushLowMoraleCost": 30,
+    "DefensivePushHighMoraleCost": 15
+  },
+  "CombatUIConstants": {
+    "MoraleCostAttackDescription": {
+      "Name": "PRECISION STRIKE COST",
+      "Details": "Cost: 20 Resolve"
+    },
+    "MoraleCostAttackDescriptionLow": {
+      "Name": "PRECISION STRIKE COST LOW",
+      "Details": "Cost: <color=#F04228FF>30 Resolve (this MechWarrior has Low Spirits)</color>"
+    },
+    "MoraleCostAttackDescriptionHigh": {
+      "Name": "PRECISION STRIKE COST HIGH",
+      "Details": "Cost: <color=#85DBF6FF>15 Resolve (this MechWarrior has High Spirits)</color>"
+    },
+    "MoraleCostDefendDescription": {
+      "Name": "VIGILANCE COST",
+      "Details": "Cost: 20 Resolve"
+    },
+    "MoraleCostDefendDescriptionLow": {
+      "Name": "VIGILANCE COST LOW",
+      "Details": "Cost: <color=#F04228FF>30 Resolve (this MechWarrior has Low Spirits)</color>"
+    },
+    "MoraleCostDefendDescriptionHigh": {
+      "Name": "VIGILANCE COST HIGH",
+      "Details": "Cost: <color=#85DBF6FF>15 Resolve (this MechWarrior has High Spirits)</color>"
+    }
+  }  
+}

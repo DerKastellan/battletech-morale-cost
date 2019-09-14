@@ -1,0 +1,9 @@
+{
+    "Name": "ModifyMorale",
+    "Enabled": true,
+
+    "Version": "0.0.1",
+    "Description": "Changes cost for morale pushs",
+    "Author": "DerKastellan"
+
+} 
